@@ -25,7 +25,12 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+header h1 a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+header h1 a .seo {
     color: #d9dcd6;
     background-color: #2a607c;
 }
@@ -137,7 +142,7 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+footer h4 {
     font-size: 20px;
 }
 
