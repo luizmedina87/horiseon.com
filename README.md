@@ -15,4 +15,4 @@ Made by Luiz Medina
 
 ## Demo
 
-![alt text](https://https://github.com/luizmedina87/horiseon.com/tree/main/assets/demo.gif)
+![alt text](https://github.com/luizmedina87/horiseon.com/blob/main/assets/docs/demo.gif)
